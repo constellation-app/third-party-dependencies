@@ -8,6 +8,9 @@ and this specific version is required to support JOGL 2.3.2.
 ## JOGL 2.4.0
 Contains Gluegen, JOCL and JOGL libraries taken from the current master build on [jogamp.](https://jogamp.org/deployment/archive/rc/v2.4.0-rc-20200202/) This specific version is required to handle JDK11 and NB11 migration.
 
+## Processing 4.0
+Contains Core.jar from the current release on [github.](https://github.com/processing/processing4/tree/processing-1270-4.0a1/core/library)
+
 For more information see the [attribution list](https://github.com/constellation-app/constellation/blob/master/ATTRIBUTION.md).
 
 ## More Information
