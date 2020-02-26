@@ -14,7 +14,7 @@ Contains `Core.jar` from the current release on [github.](https://github.com/pro
 For more information see the [attribution list](https://github.com/constellation-app/constellation/blob/master/ATTRIBUTION.md).
 
 ## NetBeans Java Help Module
-Since NetBeans's migration to Apache, support for some very old libraries have been dropped. Unfortunatley, we still require `org-netbeans-modules-javahelp.jar` .
+Since NetBeans's migration to Apache, support for some very old libraries have been dropped. Unfortunatley, we still require `org-netbeans-modules-javahelp.jar` and `jhall-2.0_05.jar`.
 
 ## More Information
 This repository should follow everything mentioned in the Constellation 
