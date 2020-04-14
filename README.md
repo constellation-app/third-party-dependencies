@@ -16,6 +16,8 @@ For more information see the [attribution list](https://github.com/constellation
 ## NetBeans Java Help Module
 Since NetBeans's migration to Apache, support for some very old libraries have been dropped. Unfortunatley, we still require `org-netbeans-modules-javahelp.jar` and `jhall-2.0_05.jar`.
 
+Note that the jars in the `NetBeans Help` is used by Travis so this should not be deleted.
+
 ## More Information
 This repository should follow everything mentioned in the Constellation 
 [README](https://github.com/constellation-app/constellation/blob/master/README.md).
