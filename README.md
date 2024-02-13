@@ -6,7 +6,10 @@ Unfolding was taken from [tillnagel/unfolding](https://github.com/tillnagel/unfo
 and this specific version is required to support JOGL 2.3.2.
 
 ## JOGL 2.4.0
-Contains Gluegen, JOCL, JOGL, Nativewindow and Newt libraries taken from the current master build on [jogamp.](https://jogamp.org/deployment/archive/rc/v2.4.0-rc-20200202/) This specific version is required to handle JDK11 and NB11 migration.
+Contains Gluegen, JOCL, JOGL, Nativewindow and Newt libraries taken from the current master build on [jogamp.](https://jogamp.org/deployment/archive/rc/v2.4.0-rc-20200202/) This specific version is required for Constellation v2 builds.
+
+## JOGL 2.5.0
+Contains Gluegen, JOCL, JOGL, Nativewindow and Newt libraries taken from [jogamp.](https://jogamp.org/deployment/maven/org/jogamp/) This specific version is required to handle JDK21 and NB20 migration.
 
 ## lwjgl3-awt
 Contains RSBFox's platform canvas implementations that bridges AWT and LWJGL-Vulkan built from [github.](https://github.com/rsbfox/lwjgl3-awt)
